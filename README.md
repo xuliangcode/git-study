@@ -8,3 +8,5 @@ learn how to use git tools
 4 learn git bisearch 
 5. add -no-ff merge
 6. add from master branch
+7. create tags from master branch
+8. add git cherry-pick msg from master
