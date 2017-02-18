@@ -11,4 +11,5 @@ learn how to use git tools
 7. create tags from master branch
 8. add git cherry-pick msg from master
 9. let's configlic
-9. learn say hello word
+10. learn say hello word
+11. try another pick
