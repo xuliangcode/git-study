@@ -8,6 +8,6 @@ static union {
 
 int main(void)
 {
-	printf("Test git reset \n")
+	printf("Test git reset \n");   
 	printf("This machine is %c \n", (char)endia_test.l);
 }
